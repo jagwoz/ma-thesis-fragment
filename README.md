@@ -1,4 +1,4 @@
-# My master thesis fragment
+# My master's thesis fragment
 
 This is an excerpt from my master thesis, which involves implementing an immersive game using augmented, virtual or mixed reality technology.
   
